@@ -18,3 +18,5 @@ mlflow.db
 
 # DVC cache
 .dvc/cache/
+/data
+/models
